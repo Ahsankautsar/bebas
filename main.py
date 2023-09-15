@@ -1,16 +1,16 @@
 meme_dict = 
 {
-    'gabut' : 'tidak ada kegiatan'
-    'YGY' : 'ya guys ya'
-    'mager' : 'malas gerak'
-    'kepo' : 'pengen tahu aja'
-    'mantul' : 'mantap betul'
-    'santuy' : 'santai'
-    'BTW' : 'ngomong-ngomong'
-    'gercep' : 'gerak cepat'
-    'gaje' : 'gak jelas'
-    'japri' : 'jawab pribadi'
-    'baper' : 'bawa perasaan'
+    'gabut' : 'tidak ada kegiatan',
+    'YGY' : 'ya guys ya',
+    'mager' : 'malas gerak',
+    'kepo' : 'pengen tahu aja',
+    'mantul' : 'mantap betul',
+    'santuy' : 'santai',
+    'BTW' : 'ngomong-ngomong',
+    'gercep' : 'gerak cepat',
+    'gaje' : 'gak jelas',
+    'japri' : 'jawab pribadi',
+    'baper' : 'bawa perasaan',
     'halu' : 'halusinasi'
     
 }
