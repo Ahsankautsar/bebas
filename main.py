@@ -1,5 +1,4 @@
-meme_dict = 
-{
+meme_dict = {
     'gabut' : 'tidak ada kegiatan',
     'YGY' : 'ya guys ya',
     'mager' : 'malas gerak',
