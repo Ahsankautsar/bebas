@@ -1,3 +1,5 @@
+#uji cona edit
+
 meme_dict = {
     'gabut' : 'tidak ada kegiatan',
     'YGY' : 'ya guys ya',
